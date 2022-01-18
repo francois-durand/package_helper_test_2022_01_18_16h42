@@ -22,7 +22,7 @@ Package Helper Test 2022 01 18 16h42
 
 
 
-This is a test of Package Helper 2.
+This is a test of Package Helper 2. It is nice.
 
 
 * Free software: GNU General Public License v3
